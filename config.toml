@@ -1,0 +1,5 @@
+baseURL = '/'
+languageCode = 'en-us'
+relativeUrls = true
+theme = "PaperMod"
+title = 'web3.art.br'
